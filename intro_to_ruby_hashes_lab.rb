@@ -1,4 +1,4 @@
-monopoly =  {
+base_hash =  {
   :railroads=>
   {
     :pieces=>4,
